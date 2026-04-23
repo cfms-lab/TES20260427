@@ -5,12 +5,3 @@
 
 #### ※ 스마트폰에서는 위의 "코드"를 누르면 파일 목록이 보입니다.
 
-```mermaid
-mindmap
-  root((Main Topic))
-    Subtopic 1
-      Grandchild 1
-      Grandchild 2
-    Subtopic 2
-      Grandchild 3
-```
